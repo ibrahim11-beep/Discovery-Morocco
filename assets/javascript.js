@@ -1,0 +1,1 @@
+// Simple JavaScript functionality ( Add more as needed) console.log("discover Morocco site loaded.");

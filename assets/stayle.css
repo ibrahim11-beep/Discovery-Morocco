@@ -1,0 +1,54 @@
+body{
+ font-family: arial, sans-serif;
+ margin: 0;
+ padding: 0;
+ direction: ltr;/* Left to Right for English */
+ text-align: left;/* Align text to the left */
+ background-color: #f0f0f0;
+ color: #333;
+}
+
+header{
+ background-color: #004d00;/* Moroccan green */
+ color: white;
+ padding: 20px 0;
+ text-align: center;
+}
+
+header nav ul {
+ list-style: none;
+ padding: 0;
+}
+
+header nav ul li{
+ display: inline;
+ margin: 0 20px;
+}
+
+header nav ul li a {
+ color: white;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+section{
+ padding: 50px;
+ text-align: center;
+ background-color: white;
+ margin: 20px 0;
+}
+
+section img {
+ margin-top: 20px;
+ border-radius: 10px;
+}
+
+footer{
+ background-color: #004d00;
+ color: white;
+ text-align: center;
+ padding: 15px 0;
+ position:relative;
+ width: 100%;
+ bottom: 0;
+}
